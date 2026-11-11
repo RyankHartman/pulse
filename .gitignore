@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+web/node_modules/
+web/dist/
+TALK_TRACK.md
