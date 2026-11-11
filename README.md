@@ -6,6 +6,8 @@ Pulse takes a public dataset of hourly player counts for the Steam top 100 (May 
 what a product analyst does with a live game: check the data, forecast, explain the anomalies, and compare
 launch cohorts. It ships as a SQL + Python pipeline that writes static JSON, and a small React dashboard on top.
 
+**[Live dashboard](https://ryankhartman.github.io/pulse/)**
+
 The point is the method, not the games. Swap the table and the same questions apply to any live product.
 
 ## The four questions
